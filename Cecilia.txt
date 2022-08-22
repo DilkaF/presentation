@@ -1,0 +1,9 @@
+Nom: Flinois
+Prénom: Cécilia
+âge :42 ans
+professions avant formation:
+	ingénieur calcul de flexbilité de tuyauterie (8 ans)
+	ingénieur contrôle de dosier de tuyauterie 
+	consultant formateur logiciel de gestion (seulement formé - 5 mois)
+dernier diplôme obtenu: Ingénieur mécanique (2004)
+mon attente formation testeur: exercer en tant que testeur ?
